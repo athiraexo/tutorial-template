@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
-=======================================
+Environment and External Dependencies
+========================================
+This section describes how to set up your Python environment for the KCWI DRP, and covers a few external dependencies.
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+We highly recommend that you use Anaconda for this installation. Using a conda environment ensures that the DRP’s requirements will not conflict with other software and packages you have installed on your machine, among other benefits.
 
-Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
